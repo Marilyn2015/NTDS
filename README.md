@@ -19,5 +19,5 @@ This project analyzes real-time network traffic to detect potential threats base
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-threat-detection.git
+   git clone https://github.com/marilyn2015/network-threat-detection.git
    cd network-threat-detection
